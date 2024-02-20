@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;700&display=swap');
+header{
+  background-color: #8797b3;
+  color: #333333;
+  padding:20px;
+  font-family: Montserrat;
+ 
+}
+nav{
+  background-color : #f5f5f5;
+  padding: 10px;
+  
+}
+nav ul{
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+}
+nav li{
+  display: inline-block;
+  margin-right: 10px;
+  
+}
+footer{
+  background-color: #f5f5f5;
+  text-align: center;
+}
+h1, h2 {
+  font-family: Montserrat;
+}
+p {
+  font-family: Roboto;
+}
